@@ -21,8 +21,9 @@ To run this project, you need the following dependencies:
 - Imutils
 
 Install the required dependencies using pip:
-
+```bash
 pip install numpy opencv-python imutils
+```
 
 To clone the repo, open the terminal and run the following command
 ```bash
